@@ -2,7 +2,7 @@ FROM openjdk:21-jdk
 
 WORKDIR /app
 
-COPY target/springdemo-1.0.0.jar /app/springdemo.jar
+COPY target/springdemo.jar /app/springdemo.jar
 
 EXPOSE 8080
 

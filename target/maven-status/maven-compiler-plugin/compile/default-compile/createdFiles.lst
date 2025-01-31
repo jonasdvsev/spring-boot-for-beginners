@@ -1,0 +1,8 @@
+com\alibou\springdemo\student\DBStudentService.class
+com\alibou\springdemo\student\InMemoryStudentDao.class
+com\alibou\springdemo\student\StudentRepository.class
+com\alibou\springdemo\student\StudentController.class
+com\alibou\springdemo\SpringDemoApplication.class
+com\alibou\springdemo\student\Student.class
+com\alibou\springdemo\student\StudentService.class
+com\alibou\springdemo\student\InMemoryStudentService.class
